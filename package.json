@@ -116,12 +116,12 @@
     "qs-middleware": "1.0.3",
     "request": "2.88.0",
     "request-promise": "4.2.5",
-    "subscriptions-transport-ws": "0.9.16",
+    "subscriptions-transport-ws": "github:NMVW/subscriptions-transport-ws#cm-release",
     "supertest": "4.0.2",
     "test-listen": "1.1.0",
     "ts-jest": "24.3.0",
     "typescript": "3.7.5",
-    "ws": "6.2.1"
+    "ws": "^7.2.1"
   },
   "jest": {
     "projects": [
